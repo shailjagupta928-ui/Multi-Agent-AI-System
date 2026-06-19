@@ -1,4 +1,11 @@
 # Multi-Agent AI System 🤖
+app link:-https://multi-agent-ai-system-9pkbgwcy9mmb67w9ao7vrs.streamlit.app/
+<img width="1920" height="832" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/8e6bcaa0-a06e-4acb-a3c8-675a2d464b3c" />
+<img width="1920" height="778" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/b252b07e-aec9-4aea-84db-acc2106f8548" />
+<img width="1920" height="641" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/2c80779a-3dde-48f4-af62-b82c2880c43b" />
+<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/cf79952d-2008-4ffe-85f7-d14357c39654" />
+<img width="1920" height="816" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/8103248c-7a3e-4b97-846f-24cf1d32baea" />
+
 
 A powerful AI research assistant that uses multiple specialized agents to search, analyze, summarize, and generate reports automatically.
 
